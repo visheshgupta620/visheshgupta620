@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishesh Gupta</h1>
-<h3 align="center">A passionate full stack web developer and a CyberSecurity enthusiast from India .</h3>
+<h3 align="center">A passionate CyberSecurity and GRC enthusiast from India .</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
